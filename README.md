@@ -38,8 +38,8 @@ The trigger returns `202` when a job starts, `409` if one is already running and
 Requirements: Python 3.10 or newer, a Google Gemini API key from [Google AI Studio](https://aistudio.google.com/) and, for publishing, a Podbean developer app.
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/mkannan2k9/LearnWithDonumAI.git
+cd LearnWithDonumAI
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
