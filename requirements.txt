@@ -1,0 +1,5 @@
+flask
+google-genai>=2.3.0
+requests
+gtts
+click>=8.1.3,<8.2
